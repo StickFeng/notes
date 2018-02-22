@@ -1,0 +1,10 @@
+String.format()用法
+
+1.单个占位符
+var s = String.format("hello %s", "stickler")
+
+2.多个占位符
+var s = String.format("hello %s%s%s", "jerry-", "li", ",welcome!")
+
+3.按索引
+var s = String.format("hello %2$s%3$s$1$s", "li-", "heng-", "jie")
