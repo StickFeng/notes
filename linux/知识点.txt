@@ -1,0 +1,11 @@
+查询当前目录下指定文件
+find . -name fileName
+
+查询根目录下指定文件
+find / -name fileName
+
+压缩文件查看
+zcat filename.gz
+
+ 
+
