@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88c9bff5-fb35-4677-af4a-9fc660fdd767" name="Default" comment="first commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/src/arraylist(collection).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/src/link_table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/src/linkedList.addAll(collection&lt;E&gt;e).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/src/linkedList.remove(e).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/数据结构等概念介绍.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/集合类源码解读.md" />
+    <list default="true" id="88c9bff5-fb35-4677-af4a-9fc660fdd767" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/java基础.md" afterPath="$PROJECT_DIR$/java/java基础.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/数据结构等概念介绍.md" afterPath="$PROJECT_DIR$/java/数据结构等概念介绍.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/集合类源码解读.md" afterPath="$PROJECT_DIR$/java/集合类源码解读.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -47,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/java/集合类源码解读.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="329">
-                <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <first_editor relative-caret-position="245">
+                <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,7 +74,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="441">
-                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                <caret line="21" column="109" lean-forward="false" selection-start-line="21" selection-start-column="109" selection-end-line="21" selection-end-column="109" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -386,8 +379,8 @@
       <list>
         <option value="$PROJECT_DIR$/java/java基础.md" />
         <option value="$PROJECT_DIR$/java/ArrayList源码解读.md" />
-        <option value="$PROJECT_DIR$/java/数据结构等概念介绍.md" />
         <option value="$PROJECT_DIR$/java/集合类源码解读.md" />
+        <option value="$PROJECT_DIR$/java/数据结构等概念介绍.md" />
       </list>
     </option>
   </component>
@@ -915,7 +908,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563257572453</updated>
-      <workItem from="1563257573705" duration="25302000" />
+      <workItem from="1563257573705" duration="28136000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1563257784502</created>
@@ -924,11 +917,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563257784502</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ArrayList &amp;&amp; LinkedList">
+      <created>1563520362155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563520362155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25302000" />
+    <option name="totallyTimeSpent" value="28136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-123" width="1920" height="1080" extended-state="0" />
@@ -967,7 +967,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="ArrayList &amp;&amp; LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList &amp;&amp; LinkedList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1043,7 +1044,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="441">
-            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <caret line="21" column="109" lean-forward="false" selection-start-line="21" selection-start-column="109" selection-end-line="21" selection-end-column="109" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1053,8 +1054,8 @@
     <entry file="file://$PROJECT_DIR$/java/集合类源码解读.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="329">
-            <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <first_editor relative-caret-position="245">
+            <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
